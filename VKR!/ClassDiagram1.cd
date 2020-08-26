@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VKR_.Cutting_Pattern">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAEAAAAAAAAAAAAAAAAAAAgAAQAAAAAQAAAA=</HashCode>
+      <FileName>Cutting Pattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR_.Cutting">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgAABQAAQQAAQAAACQIAAAAAAAAAAAABYBBAg=</HashCode>
+      <FileName>Cutting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR_.Detail">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAgAAAAAAAAAAAAAAAAAAJQAgAAAAAAA=</HashCode>
+      <FileName>Detail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR_.Detail_list">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAJAAAAABAAAAAAIBACAECAgAAAABQAAIAAAY=</HashCode>
+      <FileName>Detail_list.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
